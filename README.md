@@ -4,7 +4,7 @@
 
 ## Pre-build
 
-Copy the Linux dist of OpenRefine in the directory.
+Copy the Linux dist of OpenRefine in the directory (download page: https://github.com/OpenRefine/OpenRefine/releases).
 
 > The script `refine` is provided due to a problem with the `grep` command.
 
