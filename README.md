@@ -1,5 +1,7 @@
 # docker-openrefine
 
+> Original Dockerfile from https://github.com/vimagick/dockerfiles/tree/master/openrefine
+
 ## Pre-build
 
 Copy the Linux dist of OpenRefine in the directory.
